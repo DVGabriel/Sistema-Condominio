@@ -1,0 +1,31 @@
+c:\users\skarch\documents\visual studio 2013\Projects\Sistema Gestor de Condominio\Sistema Gestor de Condominio\bin\Debug\Sistema Gestor de Condominio.exe.config
+C:\Users\Skarch\Documents\Visual Studio 2013\Projects\Sistema Gestor de Condominio\Sistema Gestor de Condominio\bin\Debug\Sistema Gestor de Condominio.exe
+C:\Users\Skarch\Documents\Visual Studio 2013\Projects\Sistema Gestor de Condominio\Sistema Gestor de Condominio\bin\Debug\Sistema Gestor de Condominio.pdb
+C:\Users\Skarch\Documents\Visual Studio 2013\Projects\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema Gestor de Condominio.csprojResolveAssemblyReference.cache
+C:\Users\Skarch\Documents\Visual Studio 2013\Projects\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema_Gestor_de_Condominio.MenuAdministrador.resources
+C:\Users\Skarch\Documents\Visual Studio 2013\Projects\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema_Gestor_de_Condominio.MenuConserje.resources
+C:\Users\Skarch\Documents\Visual Studio 2013\Projects\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema_Gestor_de_Condominio.Properties.Resources.resources
+C:\Users\Skarch\Documents\Visual Studio 2013\Projects\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema Gestor de Condominio.csproj.GenerateResource.Cache
+C:\Users\Skarch\Documents\Visual Studio 2013\Projects\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema Gestor de Condominio.exe
+C:\Users\Skarch\Documents\Visual Studio 2013\Projects\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema Gestor de Condominio.pdb
+C:\Users\Skarch\Documents\Visual Studio 2013\Projects\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema_Gestor_de_Condominio.RegistrarResidente.resources
+C:\Users\Skarch\Documents\Visual Studio 2013\Projects\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema_Gestor_de_Condominio.RegistrarServicio.resources
+C:\Users\Skarch\Documents\Visual Studio 2013\Projects\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema_Gestor_de_Condominio.RegistrarVisita.resources
+C:\Users\Skarch\Documents\Visual Studio 2013\Projects\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema_Gestor_de_Condominio.IniciarSesion.resources
+C:\Users\Skarch\Documents\Visual Studio 2013\Projects\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema_Gestor_de_Condominio.CerrarSesion.resources
+F:\Proyecto\Gestion de condominio\Sistema Gestor de Condominio\Sistema Gestor de Condominio\bin\Debug\Sistema Gestor de Condominio.exe.config
+F:\Proyecto\Gestion de condominio\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema Gestor de Condominio.exe
+F:\Proyecto\Gestion de condominio\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema Gestor de Condominio.pdb
+F:\Proyecto\Gestion de condominio\Sistema Gestor de Condominio\Sistema Gestor de Condominio\bin\Debug\Sistema Gestor de Condominio.exe
+F:\Proyecto\Gestion de condominio\Sistema Gestor de Condominio\Sistema Gestor de Condominio\bin\Debug\Sistema Gestor de Condominio.pdb
+F:\Proyecto\Gestion de condominio\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema_Gestor_de_Condominio.CerrarSesion.resources
+F:\Proyecto\Gestion de condominio\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema_Gestor_de_Condominio.IniciarSesion.resources
+F:\Proyecto\Gestion de condominio\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema_Gestor_de_Condominio.MenuAdministrador.resources
+F:\Proyecto\Gestion de condominio\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema_Gestor_de_Condominio.MenuConserje.resources
+F:\Proyecto\Gestion de condominio\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema_Gestor_de_Condominio.Properties.Resources.resources
+F:\Proyecto\Gestion de condominio\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema_Gestor_de_Condominio.RegistrarResidente.resources
+F:\Proyecto\Gestion de condominio\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema_Gestor_de_Condominio.RegistrarServicio.resources
+F:\Proyecto\Gestion de condominio\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema_Gestor_de_Condominio.RegistrarVisita.resources
+F:\Proyecto\Gestion de condominio\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema Gestor de Condominio.csproj.GenerateResource.Cache
+F:\Proyecto\Gestion de condominio\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema Gestor de Condominio.csproj.AssemblyReference.cache
+F:\Proyecto\Gestion de condominio\Sistema Gestor de Condominio\Sistema Gestor de Condominio\obj\Debug\Sistema Gestor de Condominio.csproj.CoreCompileInputs.cache
